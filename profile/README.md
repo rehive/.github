@@ -1,6 +1,6 @@
 # We are Rehive!
 
-![image](https://github.com/rehive/.github/assets/13023194/77b1f636-6722-4843-9143-4e84e70e1bee)
+![image](https://github.com/rehive/.github/assets/13023194/80386eb4-af61-4e68-a5e3-7d2c64f93e13)
 
 ## What is Rehive?
 
