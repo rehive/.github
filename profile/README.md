@@ -4,7 +4,7 @@
 
 ## What is Rehive?
 
-We believe it should be as easy to create a fintech app on Rehive, as it is to set up an e-commerce store on Shopify. Give it a try!
+We believe it should be as easy to create a fintech app on Rehive as it is to set up an e-commerce store on Shopify. Give it a try!
 
 Our products are used by new fintech startups, marketplaces, payment services providers, and retailers all over the world.
 
