@@ -1,7 +1,5 @@
 # We are Rehive!
 
-![image](https://github.com/rehive/.github/assets/13023194/80386eb4-af61-4e68-a5e3-7d2c64f93e13)
-
 ## What is Rehive?
 
 We believe it should be as easy to create a fintech app on Rehive as it is to set up an e-commerce store on Shopify. Give it a try!
